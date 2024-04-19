@@ -1,0 +1,17 @@
+streamlit
+networkx
+matplotlib
+pillow
+google.generativeai
+gTTS
+streamlit
+streamlit-lottie
+requests
+pandas
+plotly
+langchain_community
+langchain-openai
+langchain-anthropic
+langchain
+langgraph
+bs4
